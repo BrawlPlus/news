@@ -1,1 +1,1 @@
-{"name":"سام"}
+{"image":true}
